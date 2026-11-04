@@ -47,17 +47,17 @@ The workflow consists of five connected nodes:
 ### 1. Complete Workflow
 The complete n8n workflow, showing the automation process from lead reception to email notification.
 
-`![Complete Workflow](screenshots/workflow.PNG)`
+![Complete Workflow](screenshots/workflow.PNG)
 
 ### 2. Google Sheets — Lead Tracking
 Lead information and AI qualification results are organized in Google Sheets, making it easier to review and compare incoming leads.
 
-`![Google Sheets Tracking](screenshots/google-sheets.jpg)`
+![Google Sheets Tracking](screenshots/google-sheets.jpg)
 
 ### 3. Email Notification
 A custom-designed HTML email presenting the lead information, qualification status, score, reason, and recommended next action.
 
-`![Email Notification](screenshots/email-notification.PNG)`
+![Email Notification](screenshots/email-notification.PNG)
 
 ---
 
